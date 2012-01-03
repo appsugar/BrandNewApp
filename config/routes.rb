@@ -1,4 +1,6 @@
 BrandNewApp::Application.routes.draw do
+  get "branch_one/do_it"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
