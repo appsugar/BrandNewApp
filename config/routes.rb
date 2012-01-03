@@ -1,4 +1,6 @@
 BrandNewApp::Application.routes.draw do
+  get "branch_two/dominate"
+
   get "branch_one/do_it"
 
   # The priority is based upon order of creation:
